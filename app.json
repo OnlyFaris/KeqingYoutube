@@ -5,7 +5,7 @@
   "keywords": [
     "Youtube","YoutubeDownloader" 
   ],
-  "repository": "https://github.com/OnlyFaris",
+  "repository": "https://github.com/OnlyFaris/KeqingYoutube",
   "success_url": "https://t.me/KeqingRobot",
   "website": "https://github.com/OnlyFaris",
   "env": {
